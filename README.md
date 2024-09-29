@@ -7,6 +7,10 @@ Market Mentor
 
 Currently it suggests, the mutual funds from curated database. Can be extended further to include funds of anay  choice.
 
+Integrated with it, we have Stock Analyzer, a financial tool designed to assist users in evaluating stocks based on various performance metrics. This fully automated system utilizes advanced algorithms to analyze stock data, including price trends, volatility, and market indicators. The insights are presented through an intuitive chat interface, enabling users to understand which stocks to consider for investment and the rationale behind these recommendations.
+
+For all the Indicators and Analysis, backend is connected with Yahoo Finance API for real-time data fetching.
+
 ## Features
 - **Fund Recommendations**: Get personalized mutual fund suggestions based on user-defined parameters.
 - **Stock Analysis**: Analyze any stock in the market using financial indicators.
@@ -17,7 +21,6 @@ Currently it suggests, the mutual funds from curated database. Can be extended f
   - **MACD (Moving Average Convergence Divergence)**: Tracks stock trend direction and strength.
 - **Chat Interface**: Get real-time recommendations through simple, chat-based queries.
 
-For all the Indicators and Analysis, backed is connected with Yahoo Finance API for real-time data fetching.
 
 ## Installation
 
